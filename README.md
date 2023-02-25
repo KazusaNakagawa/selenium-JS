@@ -7,7 +7,7 @@
 
 2. Dcoker Container Access
    ```bash
-   docker-compose exec web sh
+   docker-compose exec web bash
    ```
 
 3. Add Package
